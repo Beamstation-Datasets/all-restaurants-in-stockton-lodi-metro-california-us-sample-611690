@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant census for the Stockton-Lodi (Metro), California metro, covering Stockton and Lodi. Captures the competitive landscape across city boundaries within a mid-size metropolitan dining market. Filtered by the Restaurants category group with business profiles, ratings, reviews, and competitive metrics. Refreshed weekly.",
+  "config_name": "All Restaurants in Stockton-Lodi (Metro), California, US",
+  "export_job_id": "882ea575-d406-4f27-bd56-7bf8c7f515f2",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 611690,
+  "location_name": "Stockton-Lodi, CA",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-stockton-lodi-metro-california-us-sample-611690",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/611690/beamstation_611690_restaurants-us-stocktonlodica_SAMPLE_DIST.csv",
+  "sample_pct": 1.97,
+  "sample_records": 25,
+  "sample_sha256": "77a34dfa9f4d6db105695e153d5db87fa638f6900e2b0962eade7b18463b6221",
+  "sample_size_bytes": 114338,
+  "total_records": 1267,
+  "updated_at": "2026-03-31T13:44:38.323092+00:00"
+}
