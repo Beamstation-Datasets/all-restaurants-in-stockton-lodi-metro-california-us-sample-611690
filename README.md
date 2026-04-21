@@ -1,6 +1,6 @@
 # All Restaurants in Stockton-Lodi (Metro), California, US
 
-> Free BeamStation sample export with 153 rows and masked direct-contact fields.
+> Free BeamStation sample export with 120 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `611690` |
 | Location | Stockton-Lodi, CA |
 | Category | Restaurants |
-| Full dataset size | 1,536 records |
-| Free sample size | 153 records (9.96%) |
-| Last export | 2026-04-14T14:11:50.143147+00:00 |
+| Full dataset size | 1,201 records |
+| Free sample size | 120 records (9.99%) |
+| Last export | 2026-04-21T15:18:28.415654+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-stockton-lodi-metro-california-us-sample-611690/releases/download/sample-latest/beamstation_611690_restaurants-us-stocktonlodica_SAMPLE_DIST.csv) |
 
 ## What is in this sample
