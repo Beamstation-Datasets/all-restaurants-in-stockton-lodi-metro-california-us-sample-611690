@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e412907a-7a43-43eb-8700-9108302562ea",
+  "export_job_id": "6f33e6aa-ac8c-4c96-825d-bb111fb5368d",
   "id_short": 611690,
-  "published_at": "2026-04-21T19:36:54Z",
+  "published_at": "2026-04-28T19:23:07Z",
   "repo_name": "all-restaurants-in-stockton-lodi-metro-california-us-sample-611690",
   "sample_asset_name": "beamstation_611690_restaurants-us-stocktonlodica_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/611690/beamstation_611690_restaurants-us-stocktonlodica_SAMPLE_DIST.csv",
-  "sample_records": 120,
-  "sample_sha256": "7d10deb8c3c535e1b098ca7e6cebd4ce3da57d19cfd3e794123e9b180ca9d2e3",
-  "sample_size_bytes": 440298,
-  "total_records": 1201
+  "sample_records": 140,
+  "sample_sha256": "7103300d773cee8d0e55132aa1fffa0102477cd0a2d6f4aa67c6c62ad3344230",
+  "sample_size_bytes": 487316,
+  "total_records": 1407
 }
